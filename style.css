@@ -1,0 +1,67 @@
+html{
+  height:100%;
+}
+
+body{
+  background: rgb(57,53,53);
+  max-width:100%;
+  margin:0 auto;
+}
+
+section{
+  margin:0 auto;
+  position:relative;
+  text-align:center;
+  max-height: 100%;
+}
+section img{
+  width: 95%;
+  margin:0 auto;
+}
+
+h1{
+  position:absolute;
+  right:400px;
+  bottom:50px;
+  font-size: 5em;
+  font-family:lobster;
+  color:rgb(255,215,0);
+}
+
+.page2{
+  margin:0 auto;
+}
+
+.page2 img{
+  max-width:300px;
+  border-radius: 50px;
+}
+
+h2{
+  width:300px;
+  font-family: Shadows Into Light;
+  font-size: 2em;
+  color:rgb(255,215,0);
+  margin: 0 auto;
+}
+
+.page2 .container{
+  float:left;
+  overflow: none;
+}
+
+.page2 p{
+  display: inline-block;
+  font-family:Helvetica;
+  width:300px;
+  color:white;
+  overflow: none;
+}
+
+.chronixx .kabaka .protoje .jah9{
+  display: inline-block;
+  max-width: 90%;
+  float: right;
+  position: relative;
+}
+
